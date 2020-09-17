@@ -4,8 +4,12 @@ Returns: an integer
 '''
 def eating_cookies(n):
     # Your code here
+    def one():
+        #this is the function that will calculate how he eats them one at a time
+        #can we just assume this anyways?
 
-    pass
+    def two_one():
+        #this is how he would
 
 if __name__ == "__main__":
     # Use the main function here to test out your implementation
